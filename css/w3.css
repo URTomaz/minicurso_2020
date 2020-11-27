@@ -1,0 +1,9 @@
+mkdir -> para criar pastas
+cd nome_da_pasta -> para acessá-la
+touch nome_do_arquivo -> cria um arquivo
+ls -al -> lista os dados do diretório
+
+git init
+git status
+git add .
+git commit -m "Infomação do commit"
